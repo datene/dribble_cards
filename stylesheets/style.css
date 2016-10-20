@@ -1,0 +1,13 @@
+@import url("components/card.css");
+@import url("components/avatar.css");
+
+body {
+  background: #e4dfdf;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  width: 800px;
+  margin: 0 auto;
+}
